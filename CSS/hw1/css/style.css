@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f5f1;
+}
+
+a {
+    padding: 32px;
+    font-size: 20px;
+    text-decoration: none;
+}
+h1 {
+    font-size: 48px;
+    font-family: 'Laila', sans-serif;
+}
+
+h2 {
+    font-size: 36px;
+    
+}
+
+img {
+    display: inline-block;
+    width: 600px;
+    height: 400px;
+}
+
+input {
+    width: 250px;
+    padding: 6px;
+    margin-bottom: 20px;
+}
+
+textarea {
+    padding: 6px;
+}
+
+.submit {
+    font-size: 16px;
+    padding: 6px;
+    width: 150px;
+    margin: 10px;
+}
+
+.contact {
+    margin-top: 80px;
+}
+ 
+
+.photos {
+    margin: 100px;
+}
+
+.coffee {
+    margin-top: 80px;
+} 
+
+.about {
+    margin-top: 60px;
+}
+
+.about-p {
+    line-height: 2;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
