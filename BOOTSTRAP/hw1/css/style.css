@@ -1,0 +1,66 @@
+.brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem !important;
+}
+
+
+.navbar {
+    color: #fff;
+    padding: 0 7%;
+}
+
+.container {
+    margin-top: 60px;
+}
+
+.products-heading {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.products-container {
+    font-family: 'Montserrat', sans-serif;
+    margin: 5%
+}
+.ekmek {
+    margin-bottom: 20%;
+}
+
+.makarna {
+    margin-bottom: 20%;
+}
+
+
+
+
+.products {
+    text-align: center;
+    padding: 7% 15%;
+    margin: 3%;
+}
+
+/* Hakkımızda */
+
+.hakkımızda {
+text-align: center;
+margin-top: 8%;
+font-family: 'Montserrat', sans-serif;
+}
+.hakkımızda-text {
+    line-height: 1.5;
+}
+
+.hakkımızda-image {
+    border-radius: 5px;
+    width: 450px;
+}
+
+/* İletişim */
+
+.iletişim {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: 100px;
+}
+
