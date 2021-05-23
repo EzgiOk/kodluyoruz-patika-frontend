@@ -16,6 +16,7 @@ class App extends Component {
   addItem = () => {
     // input'ta yazılı olan string değer
     const currentValue = this.state.userInput;
+   
 
     if (this.state.userInput !== "") {
       const userInput = {
@@ -24,8 +25,7 @@ class App extends Component {
         content: currentValue,
         
       };
-      
-      // console.log(userInput.id)
+ 
 
       this.setState(
         {
@@ -36,10 +36,12 @@ class App extends Component {
         () => {
           // Input'tan alınan değer state'e eklendikten sonra input'u temizliyoruz
           this.setState({
-            userInput: "",
+            userInput: ""
           });
         }
+        
       );
+    
     }
   };
 
